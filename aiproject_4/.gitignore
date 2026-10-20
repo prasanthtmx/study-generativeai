@@ -1,0 +1,13 @@
+# API keys and local secrets
+.env
+.env.*
+!.env.example
+
+# Cache folders
+.cache/
+__pycache__/
+*.pyc
+.streamlit/
+
+# Virtual environment
+.venv/
